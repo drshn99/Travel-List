@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/drshn99/Travel-List/static/css/main.72e13888.css",
+    "main.js": "/drshn99/Travel-List/static/js/main.6e67eca5.js",
+    "index.html": "/drshn99/Travel-List/index.html",
+    "main.72e13888.css.map": "/drshn99/Travel-List/static/css/main.72e13888.css.map",
+    "main.6e67eca5.js.map": "/drshn99/Travel-List/static/js/main.6e67eca5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.72e13888.css",
+    "static/js/main.6e67eca5.js"
+  ]
+}
